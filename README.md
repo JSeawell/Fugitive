@@ -1,11 +1,11 @@
 # Fugitive
 An interactive game of Fugitive, written in C++
 
-> # How to compile:
+> ## How to compile:
 > kefdkf
 
-> # How to run:
+> ## How to run:
 > skhkdhf
 
-> # What I learned:
+> ## What I learned:
 > dksjfsk
