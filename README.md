@@ -1,5 +1,6 @@
 # Fugitive
 > CS-162 (Intro to CS II) Program  
+
 An interactive game of Fugitive, written in C++
 
 ## How to compile and run:
