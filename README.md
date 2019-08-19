@@ -1,4 +1,5 @@
 # Fugitive
+> CS-162 (Intro to CS II) Program
 An interactive game of Fugitive, written in C++
 
 ## How to compile and run:
@@ -8,5 +9,5 @@ An interactive game of Fugitive, written in C++
 > 4. Type `1` and press `Enter` to play
 > 5. Read the game instructions, and begin
 
-> ## What I learned:
+## What I learned:
 > dksjfsk
