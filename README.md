@@ -11,4 +11,14 @@ An interactive game of Fugitive, written in C++
 > 5. Read the game instructions, and begin
 
 ## Tech and/or concepts learned/used:
-> dksjfsk
+> - C++
+> - OOP (object-oriented programming)
+> - Pointers
+> - Dynamic memory/allocation
+> - Linked list(s) (one-way/doubly/circular)
+> - Polymorphism
+> - Inheritance
+> - Program design
+> - Game design
+> - Documentation
+> - Reflection
