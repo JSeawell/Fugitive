@@ -4,7 +4,7 @@
 An interactive game of Fugitive, written in C++
 
 ## Watch a gameplay video:
-> Navigate [HERE](https://github.com/JSeawell/Fugitive/blob/master/Fugitive.mp4)
+> Navigate [HERE](https://vimeo.com/356075433)
 
 ## How to compile and run:
 > 1. Copy/paste all the program code into a directory
